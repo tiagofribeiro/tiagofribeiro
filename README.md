@@ -2,9 +2,9 @@
 
 <br />
 
-:brazil: Sou um desenvolvedor procurando sempre as melhores e mais complexas soluções para todo tipo de problema
+:brazil: Sou um desenvolvedor procurando sempre as melhores soluções, desde as mais simples às mais complexas, para todo tipo de problema
 
-:us: I'm a developer that's always looking for the best and most complex solutions for every kind of problem
+:us: I'm a developer that's always looking for the best solutions, from the most simple to the most complex ones, for every kind of problem
 
 <br />
 
