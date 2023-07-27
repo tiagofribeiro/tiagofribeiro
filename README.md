@@ -27,7 +27,7 @@
 
 <br />
 
-## :mag: GitHub's Info
+## :mag: GitHub's Info (public)
 
 [![Tiago's GitHub stats](https://github-readme-stats.vercel.app/api?username=tiagofribeiro&show_icons=true&theme=dracula&include_all_commits=true&hide_rank=true)](https://github.com/tiagofribeiro/github-readme-stats)
 
