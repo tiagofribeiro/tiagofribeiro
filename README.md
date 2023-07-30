@@ -2,9 +2,9 @@
 
 <br />
 
-:brazil: Sou um desenvolvedor procurando sempre as melhores soluções, desde as mais simples às mais complexas, para todo tipo de problema
+:brazil: Sou um desenvolvedor que gosta de soluções, sejam simples ou complexas, para todo tipo de problema
 
-:us: I'm a developer that's always looking for the best solutions, from the most simple to the most complex ones, for every kind of problem
+:us: I'm a developer that likes to solve things, from simple to complex ones, for every kind of problem
 
 <br />
 
@@ -45,3 +45,12 @@
 <a href="https://www.linkedin.com/in/tiago-fernandes-ribeiro/">
   <img alt="Linkedin" width="40px" src="./assets/linkedin.svg" />
 </a>
+
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+
+<h6 align="right" >| se não me achar por aqui, estou correndo numa praça ou jogando alguma coisa. volto já <3</h6>
