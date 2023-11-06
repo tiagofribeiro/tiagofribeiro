@@ -2,15 +2,15 @@
 
 <br />
 
-:brazil: Sou um desenvolvedor que gosta de soluções, sejam simples ou complexas, para todo tipo de problema
+:brazil: Um desenvolvedor que gosta de programar um monte de coisa.
 
-:us: I'm a developer that likes to solve things, from simple to complex ones, for every kind of problem
+:us: A developer that likes to code a lot of things. 
 
 <br />
 
 ## :information_source: About me
 
-- :desktop_computer: Front-end and mobile developer (with some back-end background)
+- :desktop_computer: FullStack developer
 
 - :house: Working from home
   
